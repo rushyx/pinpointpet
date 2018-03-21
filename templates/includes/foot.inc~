@@ -1,0 +1,21 @@
+<footer>
+   <div class="grid grid-pad">
+      <div class="col-6-12">
+         <div class="content">
+            <h3>col-6-12</h3>
+            <?php echo '<img src='.$pages->get("/site-settings/")->site_footer_logo->url.'>'; ?>
+            <?php echo $foot_logo; ?>
+         </div>
+      </div>
+      <div class="col-6-12">
+         <div class="content">
+            <h3>col-6-12</h3>
+         </div>
+      </div>
+   </div>
+</footer>
+
+
+
+</body>
+</html>

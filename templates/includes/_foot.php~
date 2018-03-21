@@ -1,0 +1,12 @@
+<footer>
+   <div class= "container">
+      <div class= "col-sm-12">
+         <div class= "content">
+            <?php echo $foot_logo; ?>
+         </div>
+      </div>
+   </div>
+</footer>
+
+</body>
+</html>
